@@ -1,2 +1,12 @@
-# P2P-FS
-peer to peer file sharing program for Yousha
+# Context
+Desktop Application for File Sharing - Client-Server
+# GOAAAAAAAAAAAAL
+Sharing college lessons
+# Technology
+Socket,
+# Tools
+Visual studio 2022
+C#
+#Architecture
+Client-Server
+
